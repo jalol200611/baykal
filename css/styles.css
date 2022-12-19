@@ -1,0 +1,714 @@
+body {
+  height: 4945px;
+}
+.navBar {
+  padding-top: 20px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+
+  letter-spacing: 0.03em;
+
+  /* Основной текст */
+
+  color: #686868;
+}
+.padding-top {
+  padding-top: 20px;
+}
+.padding-left {
+  padding-left: 209px;
+}
+.navBar:hover {
+  /* color: #2f70d9; */
+  text-decoration: underline wavy #2f70d9;
+  text-underline-offset: 0.5rem;
+}
+.img-logo-hotel {
+  position: relative;
+  top: 50px;
+  left: 280px;
+}
+.block-1 {
+  padding-top: 105px;
+  margin-left: 25px;
+}
+.float-text-block-1 {
+  float: right;
+}
+.img-block1 {
+  height: 602px;
+  width: 706px;
+  left: 709px;
+  top: 184px;
+  border-radius: 0px;
+}
+.text-Baykal {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 131px;
+  line-height: 168px;
+  letter-spacing: 0.03em;
+  /* Акцентный */
+  color: #2f70d9;
+}
+.text-baykal-lorem {
+  /* Основной стиль текста */
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 141.18%;
+
+  letter-spacing: 0.03em;
+
+  /* Основной текст */
+
+  color: #686868;
+}
+.button-1 {
+  width: 285px;
+  height: 65px;
+
+  /* Цвет CTA */
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  color: #fff;
+  background-color: #d95845;
+  border-color: #d95845;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.block-2 {
+  padding-top: 205px;
+  margin-left: 25px;
+}
+.float-text-block-2 {
+  margin-left: 25px;
+  float: right;
+}
+.pad-top {
+  padding-top: 50px;
+  padding-bottom: 144px;
+}
+.H3 {
+  /* Мы предлагаем */
+
+  /* H3 */
+  padding-top: 108px;
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 64px;
+  letter-spacing: 0.03em;
+
+  /* Акцентный */
+
+  color: #2f70d9;
+}
+.text-hotel-lorem {
+  /* Основной стиль текста */
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 141.18%;
+
+  letter-spacing: 0.03em;
+
+  /* Основной текст */
+
+  color: #686868;
+}
+.header-text {
+  /* H2 */
+
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 64px;
+
+  letter-spacing: 0.03em;
+
+  /* Акцентный */
+
+  color: #2f70d9;
+}
+.svg-image-hr-1 {
+  position: relative;
+  top: 75px;
+  left: 180px;
+}
+.svg-image-hr-2 {
+  position: relative;
+  top: 40px;
+  left: 260px;
+}
+.svg-image-hr-3 {
+  position: relative;
+  top: 20px;
+  left: 210px;
+}
+.h-col {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #2f70d9;
+}
+.box {
+  text-align: center;
+  gap: 75px;
+  margin: 85px;
+}
+.text-col {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 141.18%;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  /* Основной текст */
+
+  color: #686868;
+}
+.box-4 {
+  padding-top: 80px;
+}
+.svg-boy {
+  padding-top: 75px;
+}
+.svg-girl {
+  padding-right: 55px;
+  padding-top: 75px;
+}
+.img-col {
+  text-align: center;
+  width: 80px;
+}
+.coll {
+  text-align: center;
+  width: 237px;
+  height: 60px;
+}
+
+.card {
+  margin-left: 25px;
+  margin-right: 25px;
+  height: 570px;
+  width: 285px;
+  left: 0px;
+  top: 0px;
+  border-color: #2f70d9;
+  border-radius: 20px;
+}
+.img-card {
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 170px;
+  height: 110px;
+}
+.img-card-2 {
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 230px;
+  height: 110px;
+}
+.card-text-h1 {
+  padding-top: 35px;
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  color: #2f70d9;
+}
+.ul-text {
+  padding-top: 25px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+  text-align: left;
+  /* Основной текст */
+
+  color: #686868;
+}
+
+.text-li {
+  padding-bottom: 13px;
+}
+.price {
+  text-align: center;
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.03em;
+  color: #2f70d9;
+}
+.price-1000-2000 {
+  text-align: center;
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 32px;
+  letter-spacing: 0.03em;
+
+  /* Цвет CTA */
+
+  color: #d95845;
+}
+.days {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+
+  /* Цвет CTA */
+
+  color: #d95845;
+}
+.svg-image-hr-4 {
+  padding-top: 100px;
+  position: relative;
+  top: 120px;
+  left: 210px;
+}
+.card-feedback {
+  width: 275px;
+  height: 400px;
+  background-color: #ffffff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+.icon-feedback {
+  width: 100px;
+  height: 100px;
+}
+.icon-align-feedback {
+  text-align: center;
+}
+.header-text-feedback {
+  padding-top: 25px;
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #2f70d9;
+}
+.text-feedback {
+  margin: 40px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+
+  /* Основной текст */
+
+  color: #686868;
+}
+.data-feedback {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+  text-align: center;
+  /* Основной текст */
+
+  color: #686868;
+}
+.card-feedback-gap {
+  padding-top: 80px;
+  padding-left: 30px;
+  display: inline-block;
+}
+.box-5 {
+  width: max-content;
+}
+.img-map {
+  width: 1200px;
+  height: 503px;
+}
+.map {
+  padding-top: 100px;
+}
+.contact {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 64px;
+  margin-left: 30px;
+  letter-spacing: 0.03em;
+
+  /* Акцентный */
+
+  color: #2f70d9;
+}
+.svg-image-hr-5 {
+  position: relative;
+  top: 25px;
+  left: 150px;
+}
+.contact-card {
+  position: absolute;
+  left: 260px;
+  top: 4200px;
+  width: 355px;
+  height: 435px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  background-color: #fff;
+}
+.adres-style-text-p {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+
+  /* Основной текст */
+
+  color: #686868;
+}
+.adres-style-text-header {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  letter-spacing: 0.05em;
+
+  /* Основной текст */
+
+  color: #686868;
+}
+.adres {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 10px;
+  width: 205px;
+  height: 81px;
+}
+.call {
+  margin-left: 55px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 41px;
+
+  letter-spacing: 0.03em;
+
+  color: #000000;
+}
+.width-icon-wh-vb {
+  margin-right: 30px;
+}
+.whatsup-viber {
+  padding-top: 25px;
+  margin-left: 55px;
+}
+.bg-color-footer {
+  background-color: #282828;
+  height: 333px;
+  width: 1200px;
+}
+.footer {
+  padding-top: 100px;
+}
+.logo-footer {
+  padding-top: 10px;
+}
+.margin-footer {
+  padding-top: 40px;
+  padding-left: 125px;
+}
+.navigation {
+  position: relative;
+  left: 190px;
+  bottom: 30px;
+}
+.navigation-style-text:hover {
+  color: #2f70d9;
+}
+.navigation-style-text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  text-decoration: none;
+}
+.buttons-footer {
+  position: relative;
+  left: 380px;
+  bottom: 280px;
+}
+.button-margin-footer {
+  padding-bottom: 20px;
+}
+.footer-button-1 {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+
+  color: #2f70d9;
+}
+.footer-button-2 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  width: 210px;
+  height: 40px;
+  color: #ffffff;
+  /* Цвет CTA */
+  border-color: #d95845;
+  background: #d95845;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+.footer-button-3 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.03em;
+
+  /* Акцентный */
+
+  color: #2f70d9;
+  box-sizing: border-box;
+
+  width: 210px;
+  height: 40px;
+  background-color: #282828;
+  /* Акцентный */
+  border: 2px solid #2f70d9;
+  border-radius: 5px;
+}
+.vector-1-footer {
+  position: relative;
+  left: 680px;
+  bottom: 350px;
+}
+.contacts-footer {
+  position: relative;
+  left: 780px;
+  bottom: 450px;
+}
+.text-Contact-footer {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 0.03em;
+  color: #2f70d9;
+}
+.text-Adres-footer {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  letter-spacing: 0.05em;
+
+  color: #ffffff;
+}
+.text-ADRES {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+.number-call-footer {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+
+.html-box-contacts {
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 608px;
+  height: 525px;
+  background-color: #ffffff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+}
+.hr-form-text {
+  position: relative;
+  right: 90px;
+  top: 10px;
+  text-align: end;
+}
+.form-text-header {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 64px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  /* Акцентный */
+  color: #2f70d9;
+}
+.text-content-form {
+  text-align: center;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+  color: #686868;
+}
+.text-name {
+  width: 480px;
+  height: 60px;
+  background: #ffffff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.form {
+  padding-left: 60px;
+}
+.form-2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.textarea-form {
+  width: 488px;
+  height: 98px;
+  background: #ffffff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.button-form {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
+  width: 285px;
+  height: 65px;
+
+  /* Цвет CTA */
+  border-color: #d95845;
+  background-color: #d95845;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.div-button-form {
+  padding-left: 25%;
+  padding-top: 15px;
+}
+.div-frame {
+  padding-top: 120px;
+  text-align: center;
+}
+.blue_color {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 64px;
+  letter-spacing: 0.03em;
+
+  /* Акцентный */
+
+  color: #2f70d9;
+}
+.input-days {
+  width: 200px;
+  height: 98px;
+  background: #ffffff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.total-price {
+  text-align: center;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+  color: #d95845;
+}
+
+.text-total-price {
+  padding-top: 20px;
+  text-align: center;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 141.18%;
+  letter-spacing: 0.03em;
+  color: #686868;
+}
+.padd {
+  padding-top: 100px;
+}
